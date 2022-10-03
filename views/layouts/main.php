@@ -71,7 +71,7 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
 <footer id="footer" class="mt-auto py-3 bg-light">
     <div class="container">
         <div class="row text-muted">
-            <div class="col-md-12 text-end text-md-end">&copy; КИС-2019, <?= date('Y') ?></div>
+            <div class="col-md-12 text-end text-md-end">&copy; КИС-211, <?= date('Y') ?></div>
     </div>
 </footer>
 
